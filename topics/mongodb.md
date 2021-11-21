@@ -39,7 +39,7 @@ Asynchronous replication to secondaries means that reads from secondaries may re
 
 
 ###### More info: 
-https://docs.mongodb.com/manual/replication/ 
-https://docs.mongodb.com/manual/applications/replication/ 
-https://docs.mongodb.com/manual/reference/write-concern/ 
-https://docs.mongodb.com/manual/reference/read-concern/ 
+- https://docs.mongodb.com/manual/replication/
+- https://docs.mongodb.com/manual/applications/replication/ 
+- https://docs.mongodb.com/manual/reference/write-concern/ 
+- https://docs.mongodb.com/manual/reference/read-concern/ 
