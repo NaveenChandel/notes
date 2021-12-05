@@ -5,6 +5,7 @@ https://www.confluent.io/blog/kafka-connect-single-message-transformation-tutori
 https://docs.confluent.io/platform/current/connect/transforms/extractfield.html
 
 ElasticsearchSinkConnector SMT extract key
+
 Route message to different ElasticSearch Index kafka connect based on key value
 
 https://www.confluent.io/de-de/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/
